@@ -7,8 +7,14 @@ Aggregated Strike rate is calculated for the whole picture. Similarly for bowler
 
 
 SR = total runs / total bowls faced
+
+
 Avg runs = total runs / total matches batted
+
+
 Economy = total runs conceded / overs bowled
+
+
 Avg wickets = total wickets / total matches bowled
 
 ### Extended Feature Engineering
